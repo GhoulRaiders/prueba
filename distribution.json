@@ -23,9 +23,9 @@
               "largeImageText": "WesterosCraft Production Server",
               "largeImageKey": "server-prod"
           },
-          "mainServer": true,
+          "mainServer": false,
           "serverCode": "",
-          "autoconnect": true,
+          "autoconnect": false,
           "modules": [
               {
                   "id": "net.minecraftforge:forge:1.11.2-13.20.1.2429",
